@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.0.14</version>
-  <url>https://github.com/561marcionilo-debug/conector-releases/releases/download/v1.0.14/SuperConector.exe</url>
-  <changelog>https://github.com/561marcionilo-debug/conector-releases/releases/tag/v1.0.14</changelog>
+  <version>1.0.15</version>
+  <url>https://github.com/561marcionilo-debug/conector-releases/releases/download/v1.0.15/SuperConector.exe</url>
+  <changelog>https://github.com/561marcionilo-debug/conector-releases/releases/tag/v1.0.15</changelog>
   <mandatory>false</mandatory>
-  <checksum algorithm="SHA256">6d785361cecba571388d53c9994d43f6fabfc7dcf8cae95bc9faf1ca9fba92a6</checksum>
+  <checksum algorithm="SHA256">9aa5705a5fa455710c670225913cf01da14e296847512f84071c3abe3aa7adaf</checksum>
 </item>
